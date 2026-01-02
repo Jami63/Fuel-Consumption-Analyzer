@@ -1,0 +1,547 @@
+,City MPG,Class,Combination MPG,Cylinders,Displacement,Drive,Fuel Type,Highway MPG,Make,Model,Transmission,Year
+0,25,midsize car,29,4.0,2.5,FWD,gas,36,mazda,6,m,2014
+1,26,midsize car,30,4.0,2.5,FWD,gas,37,mazda,6,a,2014
+2,25,small sport utility vehicle,27,4.0,2.5,FWD,gas,31,mazda,cx-5 2wd,a,2014
+3,26,small sport utility vehicle,29,4.0,2.0,FWD,gas,34,mazda,cx-5 2wd,m,2014
+4,26,small sport utility vehicle,28,4.0,2.0,FWD,gas,32,mazda,cx-5 2wd,a,2014
+5,24,small sport utility vehicle,26,4.0,2.5,4WD,gas,29,mazda,cx-5 4wd,a,2014
+6,25,small sport utility vehicle,27,4.0,2.0,4WD,gas,30,mazda,cx-5 4wd,a,2014
+7,19,subcompact car,22,6.0,3.7,RWD,gas,29,ford,mustang,m,2014
+8,19,subcompact car,23,6.0,3.7,RWD,gas,30,ford,mustang,a,2014
+9,15,subcompact car,18,8.0,5.8,RWD,gas,24,ford,mustang,m,2014
+10,18,subcompact car,20,8.0,5.0,RWD,gas,25,ford,mustang,a,2014
+11,22,small sport utility vehicle,24,4.0,2.5,AWD,gas,28,subaru,forester awd,m,2014
+12,24,small sport utility vehicle,27,4.0,2.5,AWD,gas,31,subaru,forester awd,a,2014
+13,23,small sport utility vehicle,25,4.0,2.0,AWD,gas,27,subaru,forester awd,a,2014
+14,19,subcompact car,23,6.0,3.7,RWD,gas,29,ford,mustang convertible,a,2014
+15,16,subcompact car,19,8.0,5.0,RWD,gas,25,ford,mustang,m,2014
+16,16,subcompact car,19,6.0,3.8,AWD,gas,23,nissan,gt-r,a,2014
+17,24,large car,28,6.0,3.0,AWD,diesel,36,audi,a8 l,a,2014
+18,20,small sport utility vehicle,22,4.0,2.4,FWD,gas,26,kia,sorento 2wd,a,2014
+19,19,small sport utility vehicle,21,4.0,2.4,FWD,gas,27,kia,sorento 2wd,m,2014
+20,18,small sport utility vehicle,21,6.0,3.3,FWD,gas,25,kia,sorento 2wd,a,2014
+21,19,small sport utility vehicle,21,4.0,2.4,4WD,gas,24,kia,sorento 4wd,a,2014
+22,18,small sport utility vehicle,20,6.0,3.3,4WD,gas,23,kia,sorento 4wd,a,2014
+23,17,small sport utility vehicle,19,6.0,3.5,AWD,gas,22,nissan,murano crosscabriolet,a,2014
+24,13,two seater,16,10.0,5.2,AWD,gas,22,audi,r8 spyder,a,2014
+25,13,two seater,16,10.0,5.2,AWD,gas,22,audi,r8,a,2014
+26,14,two seater,17,8.0,4.2,AWD,gas,23,audi,r8 spyder,a,2014
+27,14,two seater,17,8.0,4.2,AWD,gas,23,audi,r8,a,2014
+28,12,two seater,14,10.0,5.2,AWD,gas,19,audi,r8 spyder,m,2014
+29,12,two seater,14,10.0,5.2,AWD,gas,19,audi,r8,m,2014
+30,11,two seater,14,8.0,4.2,AWD,gas,20,audi,r8 spyder,m,2014
+31,11,two seater,14,8.0,4.2,AWD,gas,20,audi,r8,m,2014
+32,13,minicompact car,15,12.0,5.9,RWD,gas,19,aston martin,db9,a,2014
+33,13,minicompact car,15,12.0,5.9,RWD,gas,19,aston martin,vanquish,a,2014
+34,13,subcompact car,15,12.0,5.9,RWD,gas,19,aston martin,rapide s,a,2014
+35,14,subcompact car,17,8.0,5.0,RWD,gas,22,roush performance,stage 3 mustang,m,2014
+36,21,small sport utility vehicle,24,4.0,2.4,FWD,gas,28,jeep,compass fwd,a,2014
+37,21,small sport utility vehicle,24,4.0,2.4,FWD,gas,28,jeep,patriot fwd,a,2014
+38,21,small sport utility vehicle,24,4.0,2.0,FWD,gas,28,jeep,compass fwd,a,2014
+39,21,small sport utility vehicle,24,4.0,2.0,FWD,gas,28,jeep,patriot fwd,a,2014
+40,23,small sport utility vehicle,25,4.0,2.4,FWD,gas,28,jeep,patriot fwd,m,2014
+41,23,small sport utility vehicle,25,4.0,2.4,FWD,gas,28,jeep,compass fwd,m,2014
+42,23,small sport utility vehicle,25,4.0,2.0,FWD,gas,30,jeep,compass fwd,m,2014
+43,21,small sport utility vehicle,23,4.0,2.4,4WD,gas,27,jeep,compass 4wd,a,2014
+44,21,small sport utility vehicle,23,4.0,2.4,4WD,gas,27,jeep,patriot 4wd,a,2014
+45,23,small sport utility vehicle,25,4.0,2.4,4WD,gas,28,jeep,compass 4wd,m,2014
+46,23,small sport utility vehicle,25,4.0,2.4,4WD,gas,28,jeep,patriot 4wd,m,2014
+47,13,standard sport utility vehicle,15,8.0,6.4,4WD,gas,19,jeep,grand cherokee srt8,a,2014
+48,14,standard sport utility vehicle,17,8.0,4.8,AWD,gas,21,porsche,cayenne turbo,a,2014
+49,15,subcompact car,17,8.0,5.0,RWD,gas,22,roush performance,stage 3 mustang,a,2014
+50,16,subcompact car,19,6.0,3.8,AWD,gas,23,nissan,gt-r,a,2015
+51,20,compact car,23,5.0,2.5,AWD,gas,28,volvo,s60 awd,a,2015
+52,26,midsize car,30,4.0,2.5,FWD,gas,37,mazda,6,a,2015
+53,28,midsize car,32,4.0,2.5,FWD,gas,39,mazda,6,a,2015
+54,25,midsize car,29,4.0,2.5,FWD,gas,35,mazda,6,m,2015
+55,18,large car,21,6.0,3.8,RWD,gas,26,kia,k900,a,2015
+56,15,large car,18,8.0,5.0,RWD,gas,23,kia,k900,a,2015
+57,18,small sport utility vehicle,21,6.0,3.3,FWD,gas,25,kia,sorento fwd,a,2015
+58,26,small sport utility vehicle,28,4.0,2.0,FWD,gas,32,mazda,cx-5 2wd,a,2015
+59,26,small sport utility vehicle,29,4.0,2.0,FWD,gas,34,mazda,cx-5 2wd,m,2015
+60,25,small sport utility vehicle,27,4.0,2.5,FWD,gas,31,mazda,cx-5 2wd,a,2015
+61,19,small sport utility vehicle,21,4.0,2.4,AWD,gas,25,kia,sorento awd,a,2015
+62,18,small sport utility vehicle,20,6.0,3.3,AWD,gas,23,kia,sorento awd,a,2015
+63,25,small sport utility vehicle,27,4.0,2.0,4WD,gas,30,mazda,cx-5 4wd,a,2015
+64,24,small sport utility vehicle,26,4.0,2.5,4WD,gas,29,mazda,cx-5 4wd,a,2015
+65,17,small sport utility vehicle,20,6.0,3.0,AWD,gas,24,volvo,xc60 awd,a,2015
+66,17,small sport utility vehicle,20,6.0,3.0,AWD,gas,24,volvo,xc70 awd,a,2015
+67,22,two seater,26,4.0,2.0,AWD,gas,31,audi,tt roadster quattro,a,2015
+68,22,subcompact car,26,4.0,2.0,AWD,gas,31,audi,tt coupe quattro,a,2015
+69,21,compact car,24,4.0,2.0,AWD,gas,28,subaru,wrx,m,2015
+70,17,compact car,19,4.0,2.5,AWD,gas,23,subaru,wrx,m,2015
+71,19,compact car,22,6.0,3.0,AWD,gas,28,volvo,s60 awd,a,2015
+72,19,midsize car,22,6.0,3.0,AWD,gas,28,volvo,s80 awd,a,2015
+73,20,small station wagon,23,5.0,2.5,AWD,gas,28,volvo,v60 awd,a,2015
+74,19,small station wagon,22,6.0,3.0,AWD,gas,28,volvo,v60 awd,a,2015
+75,16,standard pickup truck,19,8.0,5.3,RWD,gas,23,chevrolet,silverado c15 2wd,a,2015
+76,16,standard pickup truck,19,8.0,5.3,RWD,gas,23,gmc,sierra c15 2wd,a,2015
+77,16,standard pickup truck,18,8.0,5.3,4WD,gas,22,chevrolet,silverado k15 4wd,a,2015
+78,16,standard pickup truck,18,8.0,5.3,4WD,gas,22,gmc,sierra k15 4wd,a,2015
+79,20,small sport utility vehicle,23,4.0,2.4,FWD,gas,27,kia,sorento fwd,a,2015
+80,15,standard sport utility vehicle,17,8.0,6.2,RWD,gas,21,cadillac,escalade 2wd,a,2015
+81,15,standard sport utility vehicle,17,8.0,6.2,RWD,gas,21,cadillac,escalade esv 2wd,a,2015
+82,16,standard sport utility vehicle,18,8.0,5.3,RWD,gas,23,chevrolet,tahoe c1500 2wd,a,2015
+83,16,standard sport utility vehicle,18,8.0,5.3,RWD,gas,23,chevrolet,suburban c1500 2wd,a,2015
+84,15,standard sport utility vehicle,17,8.0,6.2,RWD,gas,21,gmc,yukon c1500 2wd,a,2015
+85,15,standard sport utility vehicle,17,8.0,6.2,RWD,gas,21,gmc,yukon c1500 xl 2wd,a,2015
+86,16,standard sport utility vehicle,18,8.0,5.3,RWD,gas,23,gmc,yukon c1500 2wd,a,2015
+87,16,standard sport utility vehicle,18,8.0,5.3,RWD,gas,23,gmc,yukon c1500 xl 2wd,a,2015
+88,14,standard sport utility vehicle,16,8.0,6.2,4WD,gas,21,cadillac,escalade 4wd,a,2015
+89,14,standard sport utility vehicle,16,8.0,6.2,4WD,gas,20,cadillac,escalade esv 4wd,a,2015
+90,16,standard sport utility vehicle,18,8.0,5.3,4WD,gas,22,chevrolet,tahoe k1500 4wd,a,2015
+91,15,standard sport utility vehicle,18,8.0,5.3,4WD,gas,22,chevrolet,suburban k1500 4wd,a,2015
+92,14,standard sport utility vehicle,16,8.0,6.2,4WD,gas,20,gmc,yukon k1500 xl 4wd,a,2015
+93,14,standard sport utility vehicle,16,8.0,6.2,4WD,gas,21,gmc,yukon k1500 4wd,a,2015
+94,15,standard sport utility vehicle,18,8.0,5.3,4WD,gas,22,gmc,yukon k1500 xl 4wd,a,2015
+95,16,standard sport utility vehicle,18,8.0,5.3,4WD,gas,22,gmc,yukon k1500 4wd,a,2015
+96,16,two seater,18,8.0,5.0,RWD,gas,23,jaguar,f-type v8 s convertible,a,2015
+97,16,two seater,18,8.0,5.0,RWD,gas,23,jaguar,f-type r coupe,a,2015
+98,20,two seater,23,6.0,3.0,RWD,gas,28,jaguar,f-type convertible,a,2015
+99,20,two seater,23,6.0,3.0,RWD,gas,28,jaguar,f-type coupe,a,2015
+100,26,midsize car,30,4.0,2.5,FWD,gas,37,mazda,6,a,2016
+101,28,midsize car,32,4.0,2.5,FWD,gas,38,mazda,6,a,2016
+102,25,midsize car,29,4.0,2.5,FWD,gas,36,mazda,6,m,2016
+103,18,small sport utility vehicle,21,6.0,3.3,AWD,gas,25,kia,sorento fe awd,a,2016
+104,20,small sport utility vehicle,23,4.0,2.0,FWD,gas,27,kia,sorento fwd,a,2016
+105,21,small sport utility vehicle,24,4.0,2.4,FWD,gas,28,kia,sorento fwd,a,2016
+106,18,small sport utility vehicle,20,6.0,3.3,FWD,gas,25,kia,sorento fwd,a,2016
+107,26,small sport utility vehicle,29,4.0,2.0,FWD,gas,34,mazda,cx-5 2wd,m,2016
+108,26,small sport utility vehicle,29,4.0,2.5,FWD,gas,33,mazda,cx-5 2wd,a,2016
+109,19,small sport utility vehicle,21,4.0,2.0,AWD,gas,25,kia,sorento awd,a,2016
+110,21,small sport utility vehicle,22,4.0,2.4,AWD,gas,25,kia,sorento awd,a,2016
+111,17,small sport utility vehicle,19,6.0,3.3,AWD,gas,23,kia,sorento awd,a,2016
+112,24,small sport utility vehicle,26,4.0,2.5,4WD,gas,29,mazda,cx-5 4wd,a,2016
+113,20,midsize car,24,6.0,3.0,AWD,gas,29,audi,a7 quattro,a,2016
+114,20,midsize car,24,6.0,3.0,AWD,gas,29,audi,a6 quattro,a,2016
+115,25,small sport utility vehicle,28,4.0,1.8,FWD,gas,33,honda,hr-v 2wd,m,2016
+116,28,small sport utility vehicle,31,4.0,1.8,FWD,gas,34,honda,hr-v 2wd,a,2016
+118,27,small sport utility vehicle,29,4.0,1.8,AWD,gas,32,honda,hr-v 4wd,a,2016
+120,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type coupe,a,2016
+121,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type convertible,a,2016
+122,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s coupe,a,2016
+123,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s convertible,a,2016
+124,11,midsize car,14,8.0,6.8,RWD,gas,18,bentley,mulsanne,a,2016
+125,28,compact car,31,4.0,1.6,FWD,gas,35,hyundai,veloster,a,2016
+126,27,compact car,30,4.0,1.6,FWD,gas,34,hyundai,veloster,m,2016
+127,24,midsize car,27,4.0,2.0,FWD,gas,32,hyundai,elantra gt,m,2016
+129,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd coupe,a,2016
+130,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd convertible,a,2016
+131,25,compact car,29,4.0,2.4,FWD,gas,35,acura,ilx,a,2016
+132,24,midsize car,27,4.0,2.0,FWD,gas,32,hyundai,elantra gt,a,2016
+133,16,two seater,18,8.0,5.0,RWD,gas,23,jaguar,f-type r convertible,a,2016
+134,15,two seater,18,8.0,5.0,AWD,gas,23,jaguar,f-type r awd coupe,a,2016
+135,15,two seater,18,8.0,5.0,AWD,gas,23,jaguar,f-type r awd convertible,a,2016
+136,15,large car,18,8.0,5.0,RWD,gas,23,jaguar,xj,a,2016
+137,15,large car,18,8.0,5.0,RWD,gas,23,jaguar,xjl,a,2016
+138,20,midsize car,23,6.0,3.5,FWD,gas,30,acura,rlx,a,2016
+139,28,midsize car,30,6.0,3.5,AWD,gas,31,acura,rlx hybrid,a,2016
+140,16,subcompact car,19,6.0,3.8,AWD,gas,22,nissan,gt-r,a,2016
+141,26,compact car,29,4.0,1.6,FWD,gas,32,hyundai,veloster,a,2016
+142,25,compact car,28,4.0,1.6,FWD,gas,33,hyundai,veloster,m,2016
+143,25,midsize car,30,6.0,3.0,AWD,diesel,38,audi,a6 quattro,a,2016
+144,15,large car,18,8.0,5.0,RWD,gas,23,hyundai,equus,a,2016
+145,18,minivan,20,6.0,3.3,FWD,gas,24,kia,sedona,a,2016
+146,18,minivan,21,6.0,3.3,FWD,gas,25,kia,sedona sx,a,2016
+147,17,minivan,19,6.0,3.3,FWD,gas,22,kia,sedona sxl,a,2016
+148,17,standard sport utility vehicle,20,6.0,3.6,AWD,gas,24,porsche,cayenne,a,2016
+149,22,two seater,26,4.0,2.0,RWD,gas,32,bmw,z4 sdrive28i,a,2016
+150,20,small sport utility vehicle,23,4.0,2.0,FWD,gas,28,hyundai,santa fe sport fwd,a,2017
+151,20,small sport utility vehicle,23,4.0,2.0,FWD,gas,27,hyundai,santa fe sport ultimate fwd,a,2017
+152,19,small sport utility vehicle,22,4.0,2.0,AWD,gas,26,hyundai,santa fe sport awd,a,2017
+153,19,small sport utility vehicle,21,4.0,2.0,AWD,gas,24,hyundai,santa fe sport ultimate awd,a,2017
+154,19,standard sport utility vehicle,21,6.0,3.0,AWD,gas,25,audi,q7,a,2017
+155,29,midsize car,33,4.0,2.0,FWD,gas,38,hyundai,elantra se,a,2017
+156,28,midsize car,32,4.0,2.0,FWD,gas,37,hyundai,elantra,a,2017
+157,26,midsize car,29,4.0,2.0,FWD,gas,36,hyundai,elantra,m,2017
+158,18,small sport utility vehicle,21,6.0,3.3,FWD,gas,25,hyundai,santa fe fwd,a,2017
+159,17,small sport utility vehicle,20,6.0,3.3,FWD,gas,23,hyundai,santa fe ultimate fwd,a,2017
+160,18,small sport utility vehicle,20,6.0,3.3,AWD,gas,24,hyundai,santa fe awd,a,2017
+161,17,small sport utility vehicle,19,6.0,3.3,AWD,gas,22,hyundai,santa fe ultimate awd,a,2017
+162,21,small sport utility vehicle,24,4.0,2.4,FWD,gas,27,hyundai,santa fe sport fwd,a,2017
+163,20,small sport utility vehicle,22,4.0,2.4,AWD,gas,26,hyundai,santa fe sport awd,a,2017
+164,22,small sport utility vehicle,25,4.0,2.4,FWD,gas,29,kia,sportage fwd,a,2017
+165,23,small sport utility vehicle,26,4.0,2.4,FWD,gas,30,kia,sportage fe fwd,a,2017
+166,21,small sport utility vehicle,23,4.0,2.0,FWD,gas,26,kia,sportage fwd,a,2017
+167,21,small sport utility vehicle,23,4.0,2.4,AWD,gas,25,kia,sportage awd,a,2017
+168,21,small sport utility vehicle,22,4.0,2.4,AWD,gas,25,kia,sportage fe awd,a,2017
+169,20,small sport utility vehicle,21,4.0,2.0,AWD,gas,23,kia,sportage awd,a,2017
+170,19,small sport utility vehicle,22,6.0,3.6,FWD,gas,27,cadillac,xt5,a,2017
+171,18,small sport utility vehicle,21,6.0,3.6,AWD,gas,26,cadillac,xt5 awd,a,2017
+172,33,compact car,36,3.0,1.2,FWD,gas,41,mitsubishi,mirage,m,2017
+173,37,compact car,39,3.0,1.2,FWD,gas,43,mitsubishi,mirage,a,2017
+174,18,minivan,22,6.0,3.6,FWD,gas,28,chrysler,pacifica,a,2017
+176,14,two seater,17,10.0,5.2,AWD,gas,22,audi,r8,a,2017
+177,14,two seater,17,10.0,5.2,AWD,gas,22,audi,r8 spyder,a,2017
+178,24,compact car,27,4.0,2.0,AWD,gas,31,audi,a4 quattro,a,2017
+179,25,compact car,28,4.0,2.0,FWD,gas,33,audi,a4,a,2017
+180,20,compact car,23,4.0,2.0,AWD,gas,27,subaru,wrx,m,2017
+181,18,compact car,21,4.0,2.0,AWD,gas,24,subaru,wrx,a,2017
+182,17,compact car,19,4.0,2.5,AWD,gas,23,subaru,wrx,m,2017
+183,19,large car,22,6.0,3.0,AWD,gas,28,bmw,740i xdrive,a,2017
+184,20,small sport utility vehicle,23,6.0,3.5,FWD,gas,28,acura,rdx fwd,a,2017
+185,19,small sport utility vehicle,22,6.0,3.5,AWD,gas,27,acura,rdx awd,a,2017
+186,43,compact car,42,4.0,1.5,FWD,gas,42,chevrolet,volt,a,2017
+187,15,two seater,18,8.0,5.0,AWD,gas,23,jaguar,f-type r awd coupe,a,2017
+188,15,two seater,18,8.0,5.0,AWD,gas,23,jaguar,f-type r awd convertible,a,2017
+189,20,two seater,23,6.0,3.0,RWD,gas,28,jaguar,f-type coupe,a,2017
+190,20,two seater,23,6.0,3.0,RWD,gas,28,jaguar,f-type convertible,a,2017
+191,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s coupe,a,2017
+192,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s convertible,a,2017
+193,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd coupe,a,2017
+194,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd convertible,a,2017
+195,16,two seater,19,6.0,3.0,RWD,gas,24,jaguar,f-type coupe,m,2017
+196,16,two seater,19,6.0,3.0,RWD,gas,24,jaguar,f-type convertible,m,2017
+197,15,two seater,18,6.0,3.0,RWD,gas,24,jaguar,f-type s coupe,m,2017
+198,15,two seater,18,6.0,3.0,RWD,gas,24,jaguar,f-type s convertible,m,2017
+199,22,minicompact car,25,4.0,2.0,FWD,gas,31,mini,john cooper works convertible,m,2017
+200,26,small sport utility vehicle,28,4.0,1.5,FWD,gas,32,chevrolet,equinox fwd,a,2018
+201,24,small sport utility vehicle,26,4.0,1.5,AWD,gas,30,chevrolet,equinox awd,a,2018
+202,24,subcompact car,27,4.0,2.0,AWD,gas,34,audi,a5 cabriolet quattro,a,2018
+203,24,subcompact car,27,4.0,2.0,AWD,gas,33,audi,a5 quattro,m,2018
+204,24,compact car,27,4.0,2.0,AWD,gas,34,audi,a4 quattro,a,2018
+205,24,compact car,27,4.0,2.0,AWD,gas,33,audi,a4 quattro,m,2018
+206,21,compact car,23,4.0,2.0,AWD,gas,27,subaru,wrx,m,2018
+207,18,compact car,21,4.0,2.0,AWD,gas,24,subaru,wrx,a,2018
+208,24,midsize car,27,4.0,2.0,AWD,gas,34,audi,a5 sportback quattro,a,2018
+209,18,large car,20,6.0,3.8,AWD,gas,25,genesis,g80 awd,a,2018
+210,19,large car,22,6.0,3.8,RWD,gas,27,genesis,g80 rwd,a,2018
+211,23,small sport utility vehicle,25,4.0,2.0,AWD,gas,27,audi,q5,a,2018
+212,24,subcompact car,27,4.0,2.0,AWD,gas,34,audi,a5 quattro,a,2018
+213,21,subcompact car,24,6.0,3.0,AWD,gas,30,audi,s5,a,2018
+214,20,subcompact car,23,6.0,3.0,AWD,gas,29,audi,s5 cabriolet,a,2018
+215,21,compact car,24,6.0,3.0,AWD,gas,30,audi,s4,a,2018
+216,21,midsize car,24,6.0,3.0,AWD,gas,30,audi,s5 sportback,a,2018
+217,17,large car,20,6.0,3.3,AWD,gas,24,genesis,g80 awd,a,2018
+218,17,large car,20,6.0,3.3,RWD,gas,25,genesis,g80 rwd,a,2018
+219,19,small sport utility vehicle,21,6.0,3.0,AWD,gas,24,audi,sq5,a,2018
+220,12,standard sport utility vehicle,15,12.0,6.0,AWD,gas,19,bentley,bentayga,a,2018
+221,24,subcompact car,27,4.0,2.0,RWD,gas,34,bmw,430i convertible,a,2018
+222,22,subcompact car,26,4.0,2.0,AWD,gas,32,bmw,430i xdrive convertible,a,2018
+223,21,subcompact car,24,6.0,3.0,RWD,gas,29,bmw,440i convertible,a,2018
+224,20,subcompact car,23,6.0,3.0,AWD,gas,29,bmw,440i xdrive convertible,a,2018
+225,17,subcompact car,20,6.0,3.0,RWD,gas,25,bmw,m4 convertible,m,2018
+226,16,subcompact car,19,6.0,3.0,RWD,gas,22,bmw,m4 convertible,a,2018
+227,20,subcompact car,23,6.0,3.0,RWD,gas,29,bmw,640i convertible,a,2018
+228,19,subcompact car,22,6.0,3.0,AWD,gas,28,bmw,640i xdrive convertible,a,2018
+229,17,subcompact car,20,8.0,4.4,RWD,gas,25,bmw,650i convertible,a,2018
+230,16,subcompact car,19,8.0,4.4,AWD,gas,25,bmw,650i xdrive convertible,a,2018
+231,15,subcompact car,17,8.0,4.4,RWD,gas,22,bmw,m6 convertible,m,2018
+232,14,subcompact car,16,8.0,4.4,RWD,gas,20,bmw,m6 convertible,a,2018
+233,24,compact car,27,4.0,2.0,RWD,gas,34,bmw,430i coupe,a,2018
+234,21,compact car,25,4.0,2.0,RWD,gas,33,bmw,430i coupe,m,2018
+235,23,compact car,27,4.0,2.0,AWD,gas,33,bmw,430i xdrive coupe,a,2018
+236,24,compact car,27,4.0,2.0,RWD,gas,34,bmw,430i gran coupe,a,2018
+237,23,compact car,27,4.0,2.0,AWD,gas,33,bmw,430i xdrive gran coupe,a,2018
+238,21,compact car,25,6.0,3.0,RWD,gas,32,bmw,440i coupe,a,2018
+239,21,compact car,25,6.0,3.0,AWD,gas,31,bmw,440i xdrive coupe,a,2018
+240,19,compact car,23,6.0,3.0,AWD,gas,29,bmw,440i xdrive coupe,m,2018
+241,21,compact car,25,6.0,3.0,RWD,gas,32,bmw,440i gran coupe,a,2018
+242,21,compact car,25,6.0,3.0,AWD,gas,31,bmw,440i xdrive gran coupe,a,2018
+243,17,compact car,20,6.0,3.0,RWD,gas,25,bmw,m4 coupe,m,2018
+244,17,compact car,20,6.0,3.0,RWD,gas,24,bmw,m4 coupe,a,2018
+245,20,compact car,23,6.0,3.0,RWD,gas,29,bmw,640i gran coupe,a,2018
+246,19,compact car,22,6.0,3.0,AWD,gas,28,bmw,640i xdrive gran coupe,a,2018
+247,17,compact car,20,8.0,4.4,RWD,gas,25,bmw,650i gran coupe,a,2018
+248,16,compact car,19,8.0,4.4,AWD,gas,25,bmw,650i xdrive gran coupe,a,2018
+249,16,compact car,19,8.0,4.4,AWD,gas,25,bmw,alpina b6 xdrive gran coupe,a,2018
+250,20,small sport utility vehicle,23,6.0,3.2,FWD,gas,29,jeep,cherokee fwd,a,2019
+251,19,small sport utility vehicle,22,6.0,3.2,AWD,gas,27,jeep,cherokee 4wd,a,2019
+252,18,small sport utility vehicle,21,6.0,3.2,4WD,gas,26,jeep,cherokee 4wd active drive ii,a,2019
+253,18,small sport utility vehicle,21,6.0,3.2,4WD,gas,24,jeep,cherokee trailhawk 4wd,a,2019
+254,16,two seater,19,8.0,6.2,RWD,gas,25,chevrolet,corvette,m,2019
+255,15,two seater,18,8.0,6.2,RWD,gas,25,chevrolet,corvette,a,2019
+256,14,two seater,17,8.0,6.2,RWD,gas,23,chevrolet,corvette z06,a,2019
+257,30,compact car,34,4.0,1.4,FWD,gas,40,volkswagen,jetta,a,2019
+258,30,compact car,34,4.0,1.4,FWD,gas,40,volkswagen,jetta,m,2019
+259,22,small sport utility vehicle,25,4.0,2.4,FWD,gas,29,kia,sorento fwd,a,2019
+260,24,small sport utility vehicle,27,4.0,2.0,FWD,gas,31,infiniti,qx50,a,2019
+261,19,small sport utility vehicle,22,6.0,3.3,FWD,gas,26,kia,sorento fwd,a,2019
+262,24,small sport utility vehicle,26,4.0,2.0,AWD,gas,30,infiniti,qx50 awd,a,2019
+263,21,small sport utility vehicle,23,4.0,2.4,AWD,gas,26,kia,sorento awd,a,2019
+264,19,small sport utility vehicle,21,6.0,3.3,AWD,gas,24,kia,sorento awd,a,2019
+265,15,two seater,17,8.0,6.2,RWD,gas,22,chevrolet,corvette z06,m,2019
+266,18,minivan,21,6.0,3.3,FWD,gas,24,kia,sedona,a,2019
+267,23,small sport utility vehicle,26,4.0,2.0,FWD,gas,31,jeep,cherokee fwd,a,2019
+268,22,small sport utility vehicle,25,4.0,2.4,FWD,gas,31,jeep,cherokee fwd,a,2019
+269,21,small sport utility vehicle,24,4.0,2.0,AWD,gas,29,jeep,cherokee 4wd,a,2019
+270,21,small sport utility vehicle,24,4.0,2.4,AWD,gas,29,jeep,cherokee 4wd,a,2019
+271,20,small sport utility vehicle,22,4.0,2.0,4WD,gas,26,jeep,cherokee trailhawk 4wd,a,2019
+272,20,small sport utility vehicle,23,4.0,2.0,4WD,gas,27,jeep,cherokee 4wd active drive ii,a,2019
+273,17,compact car,20,6.0,3.3,AWD,gas,25,genesis,g70 awd,a,2019
+274,17,compact car,20,6.0,3.3,RWD,gas,26,genesis,g70 rwd,a,2019
+275,21,compact car,23,4.0,2.0,AWD,gas,28,genesis,g70 awd,a,2019
+276,22,compact car,25,4.0,2.0,RWD,gas,30,genesis,g70 rwd,a,2019
+277,18,compact car,22,4.0,2.0,RWD,gas,28,genesis,g70 rwd,m,2019
+278,20,small sport utility vehicle,22,4.0,2.0,AWD,gas,25,buick,envision awd,a,2019
+279,19,small pickup truck,22,6.0,3.5,FWD,gas,26,honda,ridgeline fwd,a,2019
+280,18,standard pickup truck,21,6.0,3.5,AWD,gas,25,honda,ridgeline awd,a,2019
+281,23,small sport utility vehicle,26,4.0,2.0,AWD,gas,31,volvo,xc40 awd,a,2019
+282,27,compact car,30,4.0,2.0,FWD,gas,34,hyundai,veloster,a,2019
+283,25,compact car,28,4.0,2.0,FWD,gas,33,hyundai,veloster,m,2019
+284,28,compact car,30,4.0,1.6,FWD,gas,34,hyundai,veloster,a,2019
+285,26,compact car,29,4.0,1.6,FWD,gas,33,hyundai,veloster,m,2019
+286,15,standard pickup truck,17,8.0,5.7,RWD,gas,22,ram,1500 2wd,a,2019
+287,15,standard pickup truck,17,8.0,5.7,4WD,gas,21,ram,1500 4wd,a,2019
+288,22,small sport utility vehicle,25,4.0,2.5,FWD,gas,29,buick,envision fwd,a,2019
+289,21,small sport utility vehicle,24,4.0,2.5,AWD,gas,27,buick,envision awd,a,2019
+290,23,compact car,26,4.0,2.4,FWD,gas,32,acura,tlx fwd a-spec,a,2019
+291,20,compact car,23,6.0,3.5,FWD,gas,30,acura,tlx fwd a-spec,a,2019
+292,20,compact car,23,6.0,3.5,AWD,gas,29,acura,tlx awd,a,2019
+293,20,compact car,23,6.0,3.5,AWD,gas,29,acura,tlx awd a-spec,a,2019
+294,13,two seater,15,8.0,6.2,RWD,gas,19,chevrolet,corvette zr1,m,2019
+295,12,two seater,15,8.0,6.2,RWD,gas,20,chevrolet,corvette zr1,a,2019
+296,27,minicompact car,30,3.0,1.5,FWD,gas,35,mini,cooper convertible,a,2019
+297,28,minicompact car,31,3.0,1.5,FWD,gas,37,mini,cooper convertible,m,2019
+298,25,minicompact car,28,4.0,2.0,FWD,gas,33,mini,cooper s convertible,a,2019
+299,23,minicompact car,26,4.0,2.0,FWD,gas,32,mini,cooper s convertible,m,2019
+300,31,compact car,34,4.0,2.0,FWD,gas,40,toyota,corolla,a,2020
+301,53,compact car,52,4.0,1.8,FWD,gas,52,toyota,corolla hybrid,a,2020
+302,29,compact car,32,4.0,2.0,FWD,gas,36,toyota,corolla,m,2020
+303,31,compact car,34,4.0,2.0,FWD,gas,38,toyota,corolla xse,a,2020
+304,30,compact car,33,4.0,1.8,FWD,gas,38,toyota,corolla,a,2020
+305,29,compact car,33,4.0,1.8,FWD,gas,39,toyota,corolla,m,2020
+306,29,compact car,32,4.0,1.8,FWD,gas,37,toyota,corolla xle,a,2020
+307,27,small station wagon,30,4.0,2.0,FWD,gas,33,kia,soul,a,2020
+308,29,small station wagon,31,4.0,2.0,FWD,gas,35,kia,soul eco dynamics,a,2020
+309,25,small station wagon,27,4.0,2.0,FWD,gas,31,kia,soul,m,2020
+310,27,small station wagon,29,4.0,1.6,FWD,gas,32,kia,soul,a,2020
+311,23,small sport utility vehicle,26,4.0,2.4,FWD,gas,30,kia,sportage fwd,a,2020
+312,20,small sport utility vehicle,23,4.0,2.0,FWD,gas,28,kia,sportage fwd,a,2020
+313,20,small sport utility vehicle,23,6.0,3.8,FWD,gas,26,kia,telluride fwd,a,2020
+314,22,small sport utility vehicle,23,4.0,2.4,AWD,gas,26,kia,sportage awd,a,2020
+315,19,small sport utility vehicle,21,4.0,2.0,AWD,gas,24,kia,sportage awd,a,2020
+316,19,small sport utility vehicle,21,6.0,3.8,AWD,gas,24,kia,telluride awd,a,2020
+317,19,small sport utility vehicle,22,4.0,2.0,4WD,gas,26,mercedes-benz,gle350 4matic,a,2020
+318,19,standard sport utility vehicle,21,6.0,3.0,4WD,gas,24,mercedes-benz,gle450 4matic,a,2020
+319,23,two seater,26,4.0,2.0,RWD,gas,30,jaguar,f-type coupe,a,2020
+320,23,two seater,26,4.0,2.0,RWD,gas,30,jaguar,f-type convertible,a,2020
+321,25,compact car,28,4.0,2.0,RWD,gas,34,jaguar,xe,a,2020
+322,24,compact car,27,4.0,2.0,RWD,gas,32,jaguar,xe 30t,a,2020
+323,24,compact car,28,4.0,2.0,AWD,gas,34,jaguar,xe awd,a,2020
+324,22,compact car,25,4.0,2.0,AWD,gas,30,jaguar,xe awd 30t,a,2020
+325,25,midsize car,28,4.0,2.0,RWD,gas,34,jaguar,xf,a,2020
+326,23,midsize car,26,4.0,2.0,RWD,gas,31,jaguar,xf 30t,a,2020
+327,23,midsize car,27,4.0,2.0,AWD,gas,33,jaguar,xf awd,a,2020
+328,22,midsize car,25,4.0,2.0,AWD,gas,31,jaguar,xf awd 30t,a,2020
+329,21,midsize station wagon,24,4.0,2.0,AWD,gas,28,jaguar,xf sportbrake awd,a,2020
+330,21,small sport utility vehicle,24,4.0,2.0,AWD,gas,28,jaguar,e-pace,a,2020
+331,21,small sport utility vehicle,23,4.0,2.0,AWD,gas,27,jaguar,e-pace p300,a,2020
+332,22,small sport utility vehicle,24,4.0,2.0,AWD,gas,27,jaguar,f-pace,a,2020
+333,22,small sport utility vehicle,24,4.0,2.0,AWD,gas,27,jaguar,f-pace 30t,a,2020
+334,21,small sport utility vehicle,23,4.0,2.0,AWD,gas,27,land rover,range rover velar,a,2020
+335,20,small sport utility vehicle,22,4.0,2.0,AWD,gas,26,land rover,range rover velar p300,a,2020
+336,20,two seater,23,6.0,3.0,RWD,gas,28,jaguar,f-type coupe,a,2020
+337,20,two seater,23,6.0,3.0,RWD,gas,28,jaguar,f-type convertible,a,2020
+338,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s coupe,a,2020
+339,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s convertible,a,2020
+340,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd coupe,a,2020
+341,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd convertible,a,2020
+342,20,midsize car,23,6.0,3.0,AWD,gas,28,jaguar,xf awd,a,2020
+343,18,midsize station wagon,21,6.0,3.0,AWD,gas,25,jaguar,xf sportbrake awd,a,2020
+344,18,small sport utility vehicle,20,6.0,3.0,AWD,gas,23,jaguar,f-pace,a,2020
+345,16,small sport utility vehicle,18,8.0,5.0,AWD,gas,21,jaguar,f-pace,a,2020
+346,20,small sport utility vehicle,23,4.0,2.0,AWD,gas,27,land rover,evoque,a,2020
+347,19,standard sport utility vehicle,21,6.0,3.8,AWD,gas,24,hyundai,palisade awd,a,2020
+348,24,subcompact car,27,4.0,2.0,RWD,gas,32,bmw,230i coupe,a,2020
+349,30,midsize car,34,4.0,2.0,FWD,gas,40,hyundai,elantra,a,2020
+350,29,small sport utility vehicle,31,4.0,2.0,FWD,gas,34,kia,seltos fwd,a,2021
+351,25,small sport utility vehicle,27,4.0,1.6,AWD,gas,30,kia,seltos awd,a,2021
+352,27,small sport utility vehicle,29,4.0,2.0,AWD,gas,31,kia,seltos awd,a,2021
+353,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s coupe,a,2021
+354,19,two seater,22,6.0,3.0,RWD,gas,27,jaguar,f-type s convertible,a,2021
+355,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd coupe,a,2021
+356,18,two seater,21,6.0,3.0,AWD,gas,26,jaguar,f-type s awd convertible,a,2021
+357,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type r awd coupe,a,2021
+358,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type r awd convertible,a,2021
+359,17,small sport utility vehicle,19,6.0,3.6,FWD,gas,23,volkswagen,atlas,a,2021
+360,16,standard sport utility vehicle,18,6.0,3.6,AWD,gas,22,volkswagen,atlas 4motion,a,2021
+361,20,compact car,23,4.0,2.0,AWD,gas,27,genesis,g70 awd,a,2021
+362,22,compact car,25,4.0,2.0,RWD,gas,30,genesis,g70 rwd,a,2021
+363,18,compact car,22,4.0,2.0,RWD,gas,28,genesis,g70 rwd,m,2021
+364,28,small station wagon,30,4.0,2.0,FWD,gas,33,kia,soul,a,2021
+365,29,small station wagon,31,4.0,2.0,FWD,gas,35,kia,soul eco dynamics,a,2021
+366,25,small station wagon,27,4.0,2.0,FWD,gas,31,kia,soul,m,2021
+367,27,small station wagon,29,4.0,1.6,FWD,gas,32,kia,soul,a,2021
+368,21,small sport utility vehicle,22,4.0,2.0,FWD,gas,24,volkswagen,atlas,a,2021
+369,26,small sport utility vehicle,28,3.0,1.3,AWD,gas,30,chevrolet,trailblazer awd,a,2021
+370,17,compact car,20,6.0,3.3,AWD,gas,25,genesis,g70 awd,a,2021
+371,17,compact car,20,6.0,3.3,RWD,gas,26,genesis,g70 rwd,a,2021
+372,28,small sport utility vehicle,29,3.0,1.2,FWD,gas,31,buick,encore gx fwd,a,2021
+373,29,small sport utility vehicle,31,3.0,1.3,FWD,gas,33,chevrolet,trailblazer fwd,a,2021
+374,28,small sport utility vehicle,29,3.0,1.2,FWD,gas,31,chevrolet,trailblazer fwd,a,2021
+375,28,minicompact car,31,3.0,1.5,FWD,gas,37,mini,cooper convertible,a,2021
+376,26,minicompact car,29,4.0,2.0,FWD,gas,34,mini,cooper s convertible,a,2021
+377,23,minicompact car,26,4.0,2.0,FWD,gas,32,mini,cooper s convertible,m,2021
+378,25,minicompact car,28,4.0,2.0,FWD,gas,33,mini,john cooper works convertible,a,2021
+379,28,subcompact car,31,3.0,1.5,FWD,gas,37,mini,cooper hardtop 2 door,a,2021
+380,28,subcompact car,31,3.0,1.5,FWD,gas,37,mini,cooper hardtop 4 door,a,2021
+381,23,subcompact car,27,4.0,2.0,FWD,gas,33,mini,cooper s hardtop 2 door,m,2021
+382,23,subcompact car,27,4.0,2.0,FWD,gas,33,mini,cooper s hardtop 4 door,m,2021
+383,26,subcompact car,29,4.0,2.0,FWD,gas,34,mini,john cooper works hardtop,a,2021
+384,23,subcompact car,27,4.0,2.0,FWD,gas,33,mini,john cooper works hardtop,m,2021
+385,24,subcompact car,26,4.0,2.0,FWD,gas,30,mini,john cooper works gp,a,2021
+386,51,compact car,48,4.0,1.5,FWD,gas,45,honda,insight touring,a,2021
+387,27,compact car,30,4.0,2.0,FWD,gas,34,hyundai,veloster,a,2021
+388,25,compact car,28,4.0,2.0,FWD,gas,33,hyundai,veloster,m,2021
+389,28,compact car,30,4.0,1.6,FWD,gas,34,hyundai,veloster,a,2021
+390,26,compact car,29,4.0,1.6,FWD,gas,33,hyundai,veloster,m,2021
+391,55,midsize car,52,4.0,1.5,FWD,gas,49,honda,insight,a,2021
+392,17,large car,19,8.0,4.4,AWD,gas,24,bmw,750i xdrive,a,2021
+393,17,large car,19,8.0,4.4,AWD,gas,24,bmw,alpina b7,a,2021
+394,19,small pickup truck,22,4.0,2.5,RWD,gas,25,chevrolet,colorado 2wd,a,2021
+395,18,small pickup truck,21,6.0,3.6,RWD,gas,25,chevrolet,colorado 2wd,a,2021
+396,19,small pickup truck,22,4.0,2.5,RWD,gas,25,gmc,canyon 2wd,a,2021
+397,18,small pickup truck,21,6.0,3.6,RWD,gas,25,gmc,canyon 2wd,a,2021
+398,19,small pickup truck,21,4.0,2.5,4WD,gas,24,chevrolet,colorado 4wd,a,2021
+399,17,small pickup truck,19,6.0,3.6,4WD,gas,24,chevrolet,colorado 4wd,a,2021
+400,19,minivan,22,6.0,3.5,FWD,gas,28,honda,odyssey,a,2022
+401,21,midsize car,24,4.0,2.5,AWD,gas,29,kia,stinger awd,a,2022
+402,22,midsize car,25,4.0,2.5,RWD,gas,32,kia,stinger rwd,a,2022
+403,17,midsize car,20,6.0,3.3,AWD,gas,24,kia,stinger awd,a,2022
+404,18,midsize car,20,6.0,3.3,RWD,gas,25,kia,stinger rwd,a,2022
+405,19,minivan,22,6.0,3.5,FWD,gas,26,kia,carnival,a,2022
+406,19,small sport utility vehicle,22,6.0,3.5,FWD,gas,26,acura,mdx fwd,a,2022
+407,26,small sport utility vehicle,29,4.0,2.5,FWD,gas,33,hyundai,tucson fwd,a,2022
+408,25,small sport utility vehicle,26,4.0,1.5,FWD,gas,28,mitsubishi,eclipse cross 2wd,a,2022
+409,26,small sport utility vehicle,27,4.0,1.5,FWD,gas,29,mitsubishi,eclipse cross es 2wd,a,2022
+410,19,small sport utility vehicle,21,6.0,3.5,AWD,gas,25,acura,mdx awd,a,2022
+411,25,small sport utility vehicle,25,4.0,1.5,4WD,gas,26,mitsubishi,eclipse cross 4wd,a,2022
+412,25,small sport utility vehicle,26,4.0,1.5,4WD,gas,28,mitsubishi,eclipse cross es 4wd,a,2022
+413,18,compact car,21,6.0,3.3,RWD,gas,27,genesis,g70 rwd,a,2022
+414,20,small sport utility vehicle,23,4.0,2.0,FWD,gas,28,kia,sportage fwd,a,2022
+415,23,small sport utility vehicle,26,4.0,2.4,FWD,gas,30,kia,sportage fwd,a,2022
+416,24,small sport utility vehicle,27,4.0,2.5,FWD,gas,31,mitsubishi,outlander 2wd,a,2022
+417,19,small sport utility vehicle,21,6.0,3.5,AWD,gas,25,genesis,gv70 awd,a,2022
+418,24,small sport utility vehicle,26,4.0,2.5,AWD,gas,29,hyundai,tucson awd,a,2022
+419,19,small sport utility vehicle,21,4.0,2.0,AWD,gas,24,kia,sportage awd,a,2022
+420,22,small sport utility vehicle,23,4.0,2.4,AWD,gas,26,kia,sportage awd,a,2022
+421,24,small sport utility vehicle,26,4.0,2.5,4WD,gas,30,mitsubishi,outlander 4wd,a,2022
+422,29,small sport utility vehicle,32,4.0,1.6,FWD,gas,35,hyundai,kona fwd,a,2022
+423,30,small sport utility vehicle,32,4.0,2.0,FWD,gas,35,hyundai,kona fwd,a,2022
+424,27,small sport utility vehicle,29,4.0,1.6,AWD,gas,32,hyundai,kona awd,a,2022
+425,28,small sport utility vehicle,30,4.0,2.0,AWD,gas,33,hyundai,kona awd,a,2022
+426,29,minicompact car,32,3.0,1.5,FWD,gas,38,mini,cooper convertible,a,2022
+427,27,minicompact car,31,3.0,1.5,FWD,gas,37,mini,cooper convertible,m,2022
+428,23,minicompact car,26,4.0,2.0,FWD,gas,33,mini,cooper s convertible,m,2022
+429,15,subcompact car,17,8.0,4.4,AWD,gas,21,bmw,m8 competition coupe,a,2022
+430,15,subcompact car,17,8.0,4.4,AWD,gas,21,bmw,m8 competition convertible,a,2022
+431,29,subcompact car,32,3.0,1.5,FWD,gas,38,mini,cooper hardtop 2 door,a,2022
+432,27,subcompact car,31,3.0,1.5,FWD,gas,37,mini,cooper hardtop 2 door,m,2022
+433,29,subcompact car,32,3.0,1.5,FWD,gas,38,mini,cooper hardtop 4 door,a,2022
+434,27,subcompact car,31,3.0,1.5,FWD,gas,37,mini,cooper hardtop 4 door,m,2022
+435,23,subcompact car,27,4.0,2.0,FWD,gas,33,mini,cooper s hardtop 2 door,m,2022
+436,23,subcompact car,27,4.0,2.0,FWD,gas,33,mini,cooper s hardtop 4 door,m,2022
+437,22,subcompact car,25,4.0,2.0,FWD,gas,31,mini,john cooper works hardtop 2 door,m,2022
+438,17,compact car,20,6.0,3.3,AWD,gas,25,genesis,g70 awd,a,2022
+439,24,midsize car,27,4.0,2.0,AWD,gas,31,bmw,x2 xdrive28i,a,2022
+440,23,midsize car,26,4.0,2.0,AWD,gas,30,bmw,x2 m35i,a,2022
+441,15,midsize car,17,8.0,4.4,AWD,gas,21,bmw,m5 cs sedan,a,2022
+442,15,midsize car,17,8.0,4.4,AWD,gas,21,bmw,m8 competition gran coupe,a,2022
+443,26,midsize car,29,3.0,1.5,FWD,gas,33,mini,cooper countryman,a,2022
+444,23,midsize car,26,3.0,1.5,AWD,gas,30,mini,cooper countryman all4,a,2022
+445,23,midsize car,26,4.0,2.0,FWD,gas,33,mini,cooper s clubman,m,2022
+446,37,small sport utility vehicle,37,4.0,1.6,AWD,gas,36,hyundai,tucson hybrid,a,2022
+447,38,small sport utility vehicle,38,4.0,1.6,AWD,gas,38,hyundai,tucson hybrid blue,a,2022
+448,17,subcompact car,20,8.0,4.4,AWD,gas,25,bmw,m850i xdrive coupe,a,2022
+449,17,subcompact car,19,8.0,4.4,AWD,gas,24,bmw,m850i xdrive convertible,a,2022
+450,18,standard sport utility vehicle,19,4.0,2.0,4WD,gas,21,land rover,defender 90,a,2023
+451,25,small sport utility vehicle,28,4.0,2.5,FWD,gas,32,kia,sportage fwd,a,2023
+452,23,small sport utility vehicle,25,4.0,2.5,AWD,gas,28,kia,sportage awd,a,2023
+453,19,standard sport utility vehicle,21,4.0,2.0,4WD,gas,22,land rover,discovery,a,2023
+454,19,standard sport utility vehicle,22,6.0,3.0,4WD,gas,25,land rover,discovery mhev,a,2023
+455,17,standard sport utility vehicle,18,4.0,2.0,4WD,gas,20,land rover,defender 110,a,2023
+456,18,standard sport utility vehicle,20,6.0,3.0,4WD,gas,23,land rover,defender 110 mhev,a,2023
+457,18,standard sport utility vehicle,20,6.0,3.0,4WD,gas,23,land rover,defender 90 mhev,a,2023
+458,15,standard sport utility vehicle,16,8.0,5.0,4WD,gas,19,land rover,defender 90,a,2023
+459,14,standard sport utility vehicle,16,8.0,5.0,4WD,gas,19,land rover,defender 110,a,2023
+460,20,small sport utility vehicle,22,4.0,2.0,AWD,gas,27,land rover,range rover evoque,a,2023
+461,19,small sport utility vehicle,20,4.0,2.0,AWD,gas,23,land rover,discovery sport,a,2023
+462,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type r awd coupe,a,2023
+463,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type r awd convertible,a,2023
+464,17,two seater,19,8.0,5.0,RWD,gas,24,jaguar,f-type p450 rwd coupe,a,2023
+465,17,two seater,19,8.0,5.0,RWD,gas,24,jaguar,f-type p450 rwd convertible,a,2023
+466,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type p450 awd r-dynamic coupe,a,2023
+467,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type p450 awd r-dynamic convertible,a,2023
+468,17,compact car,20,6.0,3.3,AWD,gas,26,genesis,g70 awd,a,2023
+469,18,compact car,21,6.0,3.3,RWD,gas,27,genesis,g70 rwd,a,2023
+470,21,compact car,25,4.0,2.0,RWD,gas,31,genesis,g70 rwd,a,2023
+471,21,small sport utility vehicle,23,4.0,2.0,AWD,gas,26,land rover,range rover evoque mhev,a,2023
+472,20,compact car,23,4.0,2.0,AWD,gas,28,genesis,g70 awd,a,2023
+473,19,minivan,22,6.0,3.5,FWD,gas,28,honda,odyssey,a,2023
+474,19,small sport utility vehicle,22,4.0,2.5,AWD,gas,26,genesis,gv70 awd,a,2023
+475,22,small sport utility vehicle,24,4.0,2.5,AWD,gas,28,genesis,gv70 awd,a,2023
+476,19,small sport utility vehicle,21,6.0,3.5,AWD,gas,24,genesis,gv70 awd,a,2023
+477,38,small sport utility vehicle,38,4.0,1.6,AWD,gas,38,kia,sportage hybrid awd,a,2023
+478,42,small sport utility vehicle,43,4.0,1.6,FWD,gas,44,kia,sportage hybrid fwd,a,2023
+479,20,standard sport utility vehicle,22,4.0,2.5,AWD,gas,24,genesis,gv80 awd,a,2023
+480,18,standard sport utility vehicle,20,6.0,3.5,AWD,gas,23,genesis,gv80 awd,a,2023
+481,29,minicompact car,32,3.0,1.5,FWD,gas,38,mini,cooper convertible,a,2023
+482,27,minicompact car,31,3.0,1.5,FWD,gas,37,mini,cooper convertible,m,2023
+483,17,subcompact car,19,8.0,4.4,AWD,gas,24,bmw,m850i xdrive coupe,a,2023
+484,17,subcompact car,19,8.0,4.4,AWD,gas,24,bmw,m850i xdrive convertible,a,2023
+485,15,subcompact car,17,8.0,4.4,AWD,gas,22,bmw,m8 competition coupe,a,2023
+486,15,subcompact car,17,8.0,4.4,AWD,gas,22,bmw,m8 competition convertible,a,2023
+487,29,subcompact car,32,3.0,1.5,FWD,gas,38,mini,cooper hardtop 2 door,a,2023
+488,27,subcompact car,31,3.0,1.5,FWD,gas,37,mini,cooper hardtop 2 door,m,2023
+489,29,subcompact car,32,3.0,1.5,FWD,gas,38,mini,cooper hardtop 4 door,a,2023
+490,27,subcompact car,31,3.0,1.5,FWD,gas,37,mini,cooper hardtop 4 door,m,2023
+491,24,midsize car,27,4.0,2.0,AWD,gas,31,bmw,x2 m35i,a,2023
+492,17,midsize car,19,8.0,4.4,AWD,gas,24,bmw,m850i xdrive gran coupe,a,2023
+493,17,midsize car,19,8.0,4.4,AWD,gas,24,bmw,alpina b8 gran coupe,a,2023
+494,15,midsize car,17,8.0,4.4,AWD,gas,22,bmw,m8 competition gran coupe,a,2023
+495,21,midsize car,24,4.0,2.5,AWD,gas,29,kia,stinger awd,a,2023
+496,22,midsize car,25,4.0,2.5,RWD,gas,32,kia,stinger rwd,a,2023
+497,17,midsize car,20,6.0,3.3,AWD,gas,24,kia,stinger awd,a,2023
+498,18,midsize car,20,6.0,3.3,RWD,gas,25,kia,stinger rwd,a,2023
+499,26,midsize car,28,3.0,1.5,FWD,gas,32,mini,cooper countryman,a,2023
+500,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type r awd coupe,a,2024
+501,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type r awd convertible,a,2024
+502,17,two seater,19,8.0,5.0,RWD,gas,24,jaguar,f-type p450 rwd coupe,a,2024
+503,17,two seater,19,8.0,5.0,RWD,gas,24,jaguar,f-type p450 rwd convertible,a,2024
+504,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type p450 awd r-dynamic coupe,a,2024
+505,16,two seater,18,8.0,5.0,AWD,gas,24,jaguar,f-type p450 awd r-dynamic convertible,a,2024
+506,28,small station wagon,30,3.0,1.2,FWD,gas,32,chevrolet,trax,a,2024
+507,20,small sport utility vehicle,23,4.0,2.0,AWD,gas,26,jaguar,e-pace,a,2024
+508,20,small sport utility vehicle,22,4.0,2.0,AWD,gas,27,land rover,range rover evoque,a,2024
+509,19,small sport utility vehicle,20,4.0,2.0,AWD,gas,23,land rover,discovery sport,a,2024
+510,28,small sport utility vehicle,31,4.0,2.0,FWD,gas,34,kia,seltos fwd,a,2024
+511,25,small sport utility vehicle,26,4.0,1.6,AWD,gas,27,kia,seltos awd,a,2024
+512,27,small sport utility vehicle,29,4.0,2.0,AWD,gas,31,kia,seltos awd,a,2024
+513,29,minicompact car,32,3.0,1.5,FWD,gas,38,mini,cooper convertible,a,2024
+514,27,minicompact car,31,3.0,1.5,FWD,gas,38,mini,cooper convertible,m,2024
+515,27,minicompact car,30,4.0,2.0,FWD,gas,36,mini,cooper s convertible,a,2024
+516,23,minicompact car,27,4.0,2.0,FWD,gas,33,mini,cooper s convertible,m,2024
+517,25,minicompact car,28,4.0,2.0,FWD,gas,33,mini,john cooper works convertible,a,2024
+518,25,subcompact car,28,4.0,2.0,RWD,gas,34,bmw,430i coupe,a,2024
+519,23,subcompact car,27,4.0,2.0,AWD,gas,33,bmw,430i xdrive coupe,a,2024
+520,25,subcompact car,28,4.0,2.0,RWD,gas,34,bmw,430i convertible,a,2024
+521,23,subcompact car,27,4.0,2.0,AWD,gas,33,bmw,430i xdrive convertible,a,2024
+522,16,subcompact car,19,6.0,3.0,RWD,gas,23,bmw,m4 coupe,m,2024
+523,16,subcompact car,19,6.0,3.0,RWD,gas,23,bmw,m4 competition coupe,a,2024
+524,16,subcompact car,18,6.0,3.0,AWD,gas,22,bmw,m4 competition m xdrive coupe,a,2024
+525,16,subcompact car,18,6.0,3.0,AWD,gas,23,bmw,m4 competition m xdrive convertible,a,2024
+526,21,subcompact car,24,6.0,3.0,RWD,gas,29,bmw,840i coupe,a,2024
+527,21,subcompact car,24,6.0,3.0,AWD,gas,29,bmw,840i xdrive coupe,a,2024
+528,21,subcompact car,24,6.0,3.0,RWD,gas,29,bmw,840i convertible,a,2024
+529,21,subcompact car,24,6.0,3.0,AWD,gas,29,bmw,840i xdrive convertible,a,2024
+530,17,subcompact car,19,8.0,4.4,AWD,gas,24,bmw,m850i xdrive coupe,a,2024
+531,17,subcompact car,19,8.0,4.4,AWD,gas,24,bmw,m850i xdrive convertible,a,2024
+532,15,subcompact car,17,8.0,4.4,AWD,gas,22,bmw,m8 competition coupe,a,2024
+533,15,subcompact car,17,8.0,4.4,AWD,gas,22,bmw,m8 competition convertible,a,2024
+534,29,subcompact car,32,3.0,1.5,FWD,gas,38,mini,cooper hardtop 2 door,a,2024
+535,27,subcompact car,31,3.0,1.5,FWD,gas,38,mini,cooper hardtop 2 door,m,2024
+536,29,subcompact car,32,3.0,1.5,FWD,gas,38,mini,cooper hardtop 4 door,a,2024
+537,27,subcompact car,31,3.0,1.5,FWD,gas,38,mini,cooper hardtop 4 door,m,2024
+538,28,subcompact car,31,4.0,2.0,FWD,gas,38,mini,cooper s hardtop 2 door,a,2024
+539,23,subcompact car,27,4.0,2.0,FWD,gas,33,mini,cooper s hardtop 2 door,m,2024
+540,28,subcompact car,31,4.0,2.0,FWD,gas,38,mini,cooper s hardtop 4 door,a,2024
+541,23,subcompact car,27,4.0,2.0,FWD,gas,33,mini,cooper s hardtop 4 door,m,2024
+542,26,subcompact car,29,4.0,2.0,FWD,gas,35,mini,john cooper works hardtop 2 door,a,2024
+543,22,subcompact car,26,4.0,2.0,FWD,gas,32,mini,john cooper works hardtop 2 door,m,2024
+544,25,compact car,28,4.0,2.0,RWD,gas,34,bmw,430i gran coupe,a,2024
+545,23,compact car,27,4.0,2.0,AWD,gas,33,bmw,430i xdrive gran coupe,a,2024
+546,21,midsize car,24,6.0,3.0,RWD,gas,29,bmw,840i gran coupe,a,2024
+547,21,midsize car,24,6.0,3.0,AWD,gas,29,bmw,840i xdrive gran coupe,a,2024
+548,17,midsize car,19,8.0,4.4,AWD,gas,24,bmw,m850i xdrive gran coupe,a,2024
+549,17,midsize car,19,8.0,4.4,AWD,gas,24,bmw,alpina b8 gran coupe,a,2024
