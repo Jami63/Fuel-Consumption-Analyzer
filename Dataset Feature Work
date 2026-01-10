@@ -1,56 +1,23 @@
-This dataset contains information about the fuel efficiency and various features of a vehicle. Below is a description of each **feature** (column) and its practical significance:
+city_mpg – How far the car goes in the city with one gallon.
 
----
+class – What type of car it is (SUV, small car, etc.).
 
-### 1. **city_mpg**
-- **Function**: Indicates the number of miles per gallon (MPG) on city roads.
-- **Usage**: Used in urban fuel economy analysis.
+combination_mpg – Average miles per gallon for city + highway.
 
-### 2. **class**
-- **Function**: Indicates the type or class of vehicle (e.g. `midsize car`, `SUV`, `two seater`).
-- **Usage**: Useful for class-based comparisons or market segmentation.
+cylinders – Number of engine cylinders (more = stronger).
 
-### 3. **combination_mpg**
-- **Function**: The combined average of city and highway MPG.
-- **Usage**: Used in assessing overall fuel efficiency.
+displacement – Engine size (big engines use more fuel).
 
-### 4. **cylinders**
-- **Function**: Number of cylinders in the engine.
-- **Usage**: Used in analysis related to engine power and power.
+drive – Which wheels move the car (front, back, or all).
 
-### 5. **displacement**
-- **Work**: Engine displacement (in liters).
-- **Usage**: Related to engine size and efficiency.
+fuel_type – What fuel the car uses (gas, diesel, electric).
 
-### 6. **drive**
-- **Work**: Drivetrain type (e.g. `fwd`, `rwd`, `awd`, `4wd`).
-- **Usage**: In analyzing vehicle drivability, traction, and fuel economy.
+highway_mpg – How far the car goes on the highway with one gallon.
 
-### 7. **fuel_type**
-- **Work**: Fuel type (e.g. `gas`, `diesel`, `electricity`).
-- **Usage**: In analyzing fuel policy or environmental impact.
+make – The company that made the car.
 
-### 8. **highway_mpg**
-- **Work**: Highway miles per gallon.
-- **Usage**: In determining long-distance fuel economy.
+model – The name of the car.
 
-### 9. **make**
-- **Function**: Car manufacturer (e.g.: `Toyota`, `BMW`).
-- **Usage**: In brand-based comparison or market share analysis.
+transmission – How the car changes gears (automatic or manual).
 
-### 10. **model**
-- **Function**: Car model name.
-- **Usage**: In specific model-based analysis or evaluation.
-
-### 11. **transmission**
-- **Function**: Transmission type (e.g.: `a` = automatic, `m` = manual).
-- **Usage**: In fuel efficiency or driving experience analysis.
-
-### 12. **year**
-- **Function**: Car model year.
-- **Usage**: In technological development or fuel efficiency trends over time.
-
----
-
-### **Summary**:
-Each feature in this dataset provides information about the **design, performance, fuel consumption, environmental impact, and market class** of a car. It can be used for **data analysis, machine learning model building, market research, energy policy planning**, etc.
+year – When the car was made.
